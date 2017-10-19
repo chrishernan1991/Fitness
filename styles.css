@@ -1,0 +1,74 @@
+/*style sheet created by Christopher Hernandez 10/19/2017*/
+
+/*style for body specifies a background color*/
+body {
+	background-color: #FFFF99;
+	}
+
+/* Style for container ID centers the page and sets the element width*/	
+#container {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* style for header specifies top and bottom margins, background color, rounded border, shodaw and alignment*/
+
+header {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	background-color: #ffffff;
+	border-radius: 10px;
+	box-shadow: 12px 12px 12px #404040;
+	text-align: center: 
+}
+
+/*style for nav specifies text*/
+nav {
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 1.25em;
+	font-weight: bold; 
+	text-align: center;
+	padding: 15px; 
+	margin-top: 10px;
+	margin-bottom: px10;
+	border-radius: 20px;
+	border-top: 5px solid #ffffff;
+	border-bottom: 5px solid #ffffff;
+}
+/*style speficies a comma for main a block display, text properties, margins, padding*/
+main{
+	display: block;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 1em;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	padding: 20px;
+	border-radius: 10px;
+	background-color: #FFFFFF;
+	box-shadow: 12px 12px 12px #404040;
+}
+/*style for footer specifies font size, text alignment and top margin*/
+footer {
+	font-size: .70em; 
+	text-align: center;
+}	
+
+.equip {
+	float: left;
+	padding-right: 20px;
+}
+
+ul {
+	margin-botton: 50px;
+	list-style-position: inside;
+}
+
+dt {
+	font-width: bold;
+}
+
+dd {
+	padding-bottom: 20px;
+	
+}
